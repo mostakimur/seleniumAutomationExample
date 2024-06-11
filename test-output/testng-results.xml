@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-11T17:58:09 ALMT" name="Default suite" finished-at="2024-06-11T17:58:16 ALMT" duration-ms="7185">
+    <groups>
+    </groups>
+    <test started-at="2024-06-11T17:58:09 ALMT" name="Default test" finished-at="2024-06-11T17:58:16 ALMT" duration-ms="7185">
+      <class name="selenium.loginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:selenium.loginTest@4d5650ae]" started-at="2024-06-11T17:58:09 ALMT" name="setUp" finished-at="2024-06-11T17:58:13 ALMT" duration-ms="3538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="signIn()[pri:1, instance:selenium.loginTest@4d5650ae]" started-at="2024-06-11T17:58:13 ALMT" name="signIn" finished-at="2024-06-11T17:58:14 ALMT" duration-ms="858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method signature="successfulLoginVerification()[pri:2, instance:selenium.loginTest@4d5650ae]" started-at="2024-06-11T17:58:14 ALMT" name="successfulLoginVerification" finished-at="2024-06-11T17:58:14 ALMT" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfulLoginVerification -->
+        <test-method signature="userSignOut()[pri:3, instance:selenium.loginTest@4d5650ae]" started-at="2024-06-11T17:58:14 ALMT" name="userSignOut" finished-at="2024-06-11T17:58:16 ALMT" duration-ms="2503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userSignOut -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:selenium.loginTest@4d5650ae]" started-at="2024-06-11T17:58:16 ALMT" name="tearDown" finished-at="2024-06-11T17:58:16 ALMT" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- selenium.loginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
